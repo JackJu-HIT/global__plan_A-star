@@ -1,0 +1,2 @@
+/usr/bin/ar qc liba_star_lib.a  CMakeFiles/a_star_lib.dir/src/global_planner/a_star.cpp.o CMakeFiles/a_star_lib.dir/src/global_planner/astar.cpp.o CMakeFiles/a_star_lib.dir/src/global_planner/grid_path.cpp.o CMakeFiles/a_star_lib.dir/src/global_planner/gradient_path.cpp.o CMakeFiles/a_star_lib.dir/src/global_planner/quadratic_calculator.cpp.o
+/usr/bin/ranlib liba_star_lib.a

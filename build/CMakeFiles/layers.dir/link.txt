@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblayers.a  CMakeFiles/layers.dir/plugins/inflation_layer.cpp.o CMakeFiles/layers.dir/plugins/obstacle_layer.cpp.o CMakeFiles/layers.dir/plugins/static_layer.cpp.o
+/usr/bin/ranlib liblayers.a

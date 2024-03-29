@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcostmap_2d_lib.a  CMakeFiles/costmap_2d_lib.dir/src/costmap_2d/array_parser.cpp.o CMakeFiles/costmap_2d_lib.dir/src/costmap_2d/costmap_2d.cpp.o CMakeFiles/costmap_2d_lib.dir/src/costmap_2d/layer.cpp.o CMakeFiles/costmap_2d_lib.dir/src/costmap_2d/layered_costmap.cpp.o CMakeFiles/costmap_2d_lib.dir/src/costmap_2d/costmap_2d_ros.cpp.o CMakeFiles/costmap_2d_lib.dir/src/costmap_2d/costmap_math.cpp.o CMakeFiles/costmap_2d_lib.dir/src/costmap_2d/footprint.cpp.o CMakeFiles/costmap_2d_lib.dir/src/costmap_2d/costmap_layer.cpp.o
+/usr/bin/ranlib libcostmap_2d_lib.a
