@@ -14,9 +14,11 @@ make -j2
 
 # success execute
 
+The orginal map of environment:
 
 ![originalmap.png](originalmap.png)
 
+After Path Planning and inflaton map expand,the map and the paths:
 
 ![a_star_plan_costmap.png](a_star_plan_costmap.png)
 
